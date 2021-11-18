@@ -1,0 +1,64 @@
+.flexP{
+    margin-left: 119px;
+    height: 340px;
+    width: 987px;
+    
+}
+h1{
+    margin-left: 379px;
+}
+.ins{
+    left: 314px;
+    top: 1289px;
+    width: 602px;
+}
+#end{
+    margin-left: 519px;
+}
+#test5{
+    left: 253px;
+    top: 943px;
+    width: 723px;
+}
+#test6{
+    left: 277px;
+    top: 601px;
+    width: 650px;
+}
+#test1{
+    left: 292px;
+    width: 650px;
+}
+#test3{
+    left: 620px;
+    top: 204px;
+    height: 798px;
+}
+#test4{
+    left: 946px;
+    top: 204px;
+    height: 798px;
+}
+#test2{
+    left: 288px;
+    top: 204px;
+    height: 798px;
+}
+#test7{
+    left: 135px;
+     top: 717px;
+    width:1098px;
+    transform: rotate(46deg);
+}
+#test8{
+    
+    width:1098px;
+    left: 19px;
+    top: 700px;
+    transform: rotate(-46deg);
+}
+.flexS{
+    height:336px;
+    width: 800px;
+
+}
